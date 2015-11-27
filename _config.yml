@@ -1,7 +1,7 @@
 name: Eric test
 favicon: null
-layout_spectrum: 0.21291225287131965
-typography_spectrum: 0.18466465082019567
+layout_spectrum: 0.52688
+typography_spectrum: 0.32851
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.549166165990755
+    - '#94b7e9'
+    - '#839c57'
+    - '#3a3b37'
+    - '#141411'
+    - '#dedcc6'
+  brandStrength: 0
   lightness: 0.14316475205123425
-  saturation: 0.9632466395851225
-  rhythmicContrast: 0.9062127184588462
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
